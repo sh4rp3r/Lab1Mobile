@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Lab1Mobile</string>
+    <string name="name">Rylov Mikhail</string>
+    <string name="telegram">\@sh4rper</string>
+    <string name="group">B23-191-1</string>
+    <string name="image_description">Android logo</string>
 </resources>
